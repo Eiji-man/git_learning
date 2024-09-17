@@ -1,5 +1,2 @@
-# git_learning
-
-変更した
-
-developブランチ作成
+# smart_factory_intelligence_application
+スマートファクトリー向け汎用機械学習開発PJ
