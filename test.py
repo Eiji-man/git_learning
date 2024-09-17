@@ -1,4 +1,6 @@
-import os, sys, io  # 問題点1:1行に複数のインポート 問題点2:ioをインポートしているが未使用
+import os
+import sys
+import io  # 問題点1:1行に複数のインポート 問題点2:ioをインポートしているが未使用
 
 
 def greetingPath(msg, name):  # 命名規則にエラー。後述のオプションで説明
